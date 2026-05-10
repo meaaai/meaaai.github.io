@@ -2,7 +2,7 @@
 title: "[한 달-필수미션] Git 배우기"
 date: 2026-05-06
 categories: [Git]
-tags: [git, github, learn-git-branching, branch, rebase, remote]
+tags: [git, github, learn-git-branching]
 ---
 
 Learn Git Branching으로 Git의 기본 명령어부터 원격 저장소 명령어까지 학습한 내용을 정리했다.
