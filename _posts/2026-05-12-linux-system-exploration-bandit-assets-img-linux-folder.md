@@ -5,10 +5,16 @@ date: 2026-05-12 23:00:00 +0900
 categories: [Linux, Bandit]
 tags: [linux, ssh, bandit, overthewire, terminal]
 ---
+## 실습 환경
 
+본 미션은 MacBook의 macOS 환경에서 진행했다.  
+과제 안내에는 WSL 설치 과정이 포함되어 있었지만, WSL은 Windows에서 Linux 환경을 사용하기 위한 기능이므로 macOS에서는 설치하지 않았다.
+
+macOS는 기본 터미널을 제공하며, 해당 터미널에서 SSH 접속과 기본 Linux/Unix 명령어 사용이 가능하다. 따라서 WSL 대신 macOS 터미널을 사용하여 Bandit 서버에 접속하고 실습을 진행했다.
 ## Level 0
 
 **목표**: SSH를 사용하여 게임에 로그인하기
+
 
 **풀이**
 
