@@ -4,6 +4,7 @@ title: "[OverTheWire Bandit] 리눅스 기반 시스템 탐색 및 데이터 분
 date: 2026-05-12 23:00:00 +0900
 categories: [Linux, Bandit]
 tags: [linux, ssh, bandit, overthewire, terminal]
+permalink: /posts/linux-system-exploration-bandit/
 ---
 ## 실습 환경
 
