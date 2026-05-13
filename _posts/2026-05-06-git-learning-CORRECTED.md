@@ -1,5 +1,5 @@
 ---
-title: "[한 달-필수미션] Git 배우기"
+title: "Git 배우기"
 date: 2026-05-06
 categories: [Git]
 tags: [git, github, learn-git-branching, branch, rebase, remote]
