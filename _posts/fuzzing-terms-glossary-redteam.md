@@ -1,8 +1,8 @@
 ---
 title: "[Fuzzing] 관련 용어 정리"
 date: 2026-05-28
-categories: [BugBounty, Fuzzing]
-tags: [Fuzzing, Fuzzer, BugBounty, RedTeam, AFLplusplus, libFuzzer, Jackalope, Sanitizer]
+categories: [BugBounty]
+tags: [Fuzzing, Fuzzer, BugBounty]
 ---
 
 # Fuzzing 관련 용어 정리
